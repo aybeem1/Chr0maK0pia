@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chr0maK0pia (aka glass_tapper on discord)
-- 👀 I’m interested in Engineering, Computer Science, Electronics, Music, And Fishing
-- 🌱 I’m currently learning C
-- ✌️ Im taking CS50's Intro to Computer Science, I'm on week 5 right now.
-- 📕 My favorite book currently is Basic Radio Vols. 1-6 by Marvin Tepper
-- 🎵 My favorite song right now is Sugar On My Toungue by Tyler, The Creator, but I love the whole album.
+- 👋 Hi, I’m @Chr0maK0pia aka Lexi,
+- 👀 I’m interested in Engineering, Computer Science, Electronics, Music, And Design/Art.
+- 🌱 I’m currently learning Web-dev and Assembly.
+- ✌️ I've completed CS50's Intro to Computer Science, amazing course!
+- 📕 My favorite book currently is Engineering in plain sight.
+- 🎵 My favorite song right now is Ex-factor by Lauryn Hill, but the album might be my favorite of all time.
 
