@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chr0maK0pia aka Lexi,
+- 👋 Hi, I’m @aybeem1 aka Lexi,
 - 👀 I’m interested in Engineering, Computer Science, Electronics, Music, And Design/Art.
 -  I’m currently learning Web-dev and Digital Electronics.
 -  I've completed CS50's Intro to Computer Science, amazing course!
