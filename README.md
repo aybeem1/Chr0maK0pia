@@ -1,5 +1,5 @@
 - Hi, I’m @aybeem1 aka Lexi,
 - I’m interested in Engineering, Computer Science, Electronics, Music, And Design/Art.
-- I’m currently learning Web-dev and Digital Electronics.
+- I’m currently learning analog and Digital Electronics, and I'm taking cs50's intro to computer science.
 - My favorite book currently is Engineering in plain sight.
 - My favorite album is Modal Soul by Nujabes.
