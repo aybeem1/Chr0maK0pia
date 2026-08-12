@@ -3,4 +3,4 @@
 - I’m currently learning analog and digital electronics, and I'm taking cs50's intro to computer science.
 - My favorite book currently is Engineering in plain sight.
 - I'm currently reading Sapiens by Yuval Noah Harai.
-- My favorite album is Modal Soul by Nujabes.
+- My favorite album is The Lo-fi's by Steve Lacy.
