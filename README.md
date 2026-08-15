@@ -4,3 +4,4 @@
 - My favorite book currently is Engineering in plain sight.
 - I'm currently reading Sapiens by Yuval Noah Harai.
 - My favorite album is The Lo-fi's by Steve Lacy.
+- No AI was used in the making of this README :).
